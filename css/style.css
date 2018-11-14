@@ -23,6 +23,10 @@ Table of contents
 /* ====================
   Main Styles
 =======================*/
+/*Horizontal Rule*/
+hr {
+	border-top: 1px solid #eee;
+}
 .site-btnsociall {
 	position: relative;
 	display: inline-block;
