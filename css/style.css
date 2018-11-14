@@ -131,11 +131,11 @@ li, ul {
 /* ====================
   Common Styles
 =======================*/
-.pt20 {
-	padding-top: 20px;
+.pt70 {
+	padding-top: 70px;
 }
-.pb20 {
-	padding-bottom: 20px;
+.pb70 {
+	padding-bottom: 70px;
 }
 .mb100 {
 	margin-bottom: 100px;
