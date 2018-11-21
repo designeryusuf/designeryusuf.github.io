@@ -81,7 +81,7 @@ $(window).on('load', function() {
 	});
 	7
 	$("#story-heading2").typed({
-		strings: ["My Personal Achievements"],
+		strings: ["My Achievements"],
 		typeSpeed: 10,
 		loop:true,
 		backDelay: 4000
