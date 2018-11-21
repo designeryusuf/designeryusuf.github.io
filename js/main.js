@@ -74,7 +74,14 @@ $(window).on('load', function() {
 	});
 
 	$("#story-heading").typed({
-		strings: ["A short story about me.", "A brief story of me"],
+		strings: ["Who I am"],
+		typeSpeed: 10,
+		loop:true,
+		backDelay: 4000
+	});
+	7
+	$("#story-heading2").typed({
+		strings: ["My Personal Achievements"],
 		typeSpeed: 10,
 		loop:true,
 		backDelay: 4000
